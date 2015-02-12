@@ -30,10 +30,19 @@ A curated list of awesome Markdown tools
 * [Minimalist Online Markdown Editor](http://markdown.pioul.fr/)
 
 ###Multi-platform Markdown Editors
+* [CuteMarkEd](http://cloose.github.io/CuteMarkEd/)
+* [Haroopad](http://pad.haroopress.com/)
+* []()
+* []()
+* []()
+* []()
+* []()
 
 ###OSx Markdown Editors
 
 ###Linux Markdown Editors
+* [Remarkable](http://remarkableapp.net/)
+* [Springseed](http://getspringseed.com/)
 
 ###Windows Markdown Editors
 
@@ -47,14 +56,28 @@ A curated list of awesome Markdown tools
 
 ### Brackets Plugins
 
+### [ATOM](https://atom.io) Plugins
+**ATOM Editor has a built in Markdown Parser**
+
 ## Markdown Libraries
 
 ### Javascript Markdown Libraries
+* [marked](https://github.com/chjj/marked)
+* [markdown-js](https://github.com/evilstreak/markdown-js)
+* [Showdown](https://github.com/showdownjs/showdown)
+
+### GO Markdown Parsers
+* [Blackfriday](https://github.com/russross/blackfriday)
+* [markdown](https://github.com/knieriem/markdown)
 
 ### Python Markdown Libraries
-
-### Perl Markdown Libraries
+* [Mistune](https://github.com/lepture/mistune)
 
 ### Ruby Markdown Libraries
+* [Redcarpet](https://github.com/vmg/redcarpet)
+* [kramdown](https://github.com/gettalong/kramdown)
+
+### C Markdown Parsers
+* [Sundown](https://github.com/vmg/sundown)
 
 ##Resources
