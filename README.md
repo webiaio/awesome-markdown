@@ -1,5 +1,5 @@
-#Awesome Markdown
 ![Markdown](logo.jpg)
+#Awesome Markdown
 A curated list of awesome Markdown tools
 
 
@@ -94,5 +94,7 @@ A curated list of awesome Markdown tools
 ##Resources
 
 ###Markdown Tutorials
+* [Markdown Basics](https://help.github.com/articles/markdown-basics/)
 * [Daring Fireball: Markdown Basics](http://daringfireball.net/projects/markdown/basics)
 * [Markdown Tutorial](http://markdowntutorial.com/)
+* [Learn The Basics Of Markdown in 10 Minutes](http://www.youtube.com/watch?v=HndN6P9ke6U) *video*
