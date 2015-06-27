@@ -1,5 +1,7 @@
 #Awesome Markdown
+![Markdown](logo.jpg)
 A curated list of awesome Markdown tools
+
 
 ##Table of Contents
 - [Awesome Markdown](#awesome-markdown)
@@ -94,4 +96,3 @@ A curated list of awesome Markdown tools
 ###Markdown Tutorials
 * [Daring Fireball: Markdown Basics](http://daringfireball.net/projects/markdown/basics)
 * [Markdown Tutorial](http://markdowntutorial.com/)
-
