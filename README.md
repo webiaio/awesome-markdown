@@ -70,12 +70,15 @@ A curated list of awesome Markdown tools
 ###ATOM Editor Plugins
 **ATOM Editor has a built in Markdown Parser**
 
+* [Markdown Writer](https://atom.io/packages/markdown-writer) - Allows attaching images
+
 ##Markdown Libraries
 
 ###Javascript Markdown Libraries
 * [marked](https://github.com/chjj/marked)
 * [markdown-js](https://github.com/evilstreak/markdown-js)
 * [Showdown](https://github.com/showdownjs/showdown)
+* [markdown-it](https://github.com/markdown-it/markdown-it) - pluggable markdown library
 
 ###GO Markdown Libraries
 * [Blackfriday](https://github.com/russross/blackfriday)
