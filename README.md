@@ -45,6 +45,7 @@ A curated list of awesome Markdown tools
 
 ###OSx Markdown Editors
 * [MacDown](http://macdown.uranusjr.com/)
+* [typora](http://typora.io) - minimalist wysiwyg editor
 
 ###Windows Markdown Editors
 * [Markdown Metro](http://apps.microsoft.com/windows/en-us/app/markdown-metro/efb6cd20-9376-4fb1-999b-19564c1380d4)
@@ -76,6 +77,7 @@ A curated list of awesome Markdown tools
 * [marked](https://github.com/chjj/marked)
 * [markdown-js](https://github.com/evilstreak/markdown-js)
 * [Showdown](https://github.com/showdownjs/showdown)
+* [mdast](https://github.com/wooorm/mdast) - pluggable markdown processing with ast
 
 ###GO Markdown Libraries
 * [Blackfriday](https://github.com/russross/blackfriday)
