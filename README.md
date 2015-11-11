@@ -34,6 +34,7 @@ A curated list of awesome Markdown tools
 * [Markable](http://markable.in/)
 * [Markdown Viewer](http://www.markdownviewer.com/)
 * [Minimalist Online Markdown Editor](http://markdown.pioul.fr/)
+* [GitBook](http://www.gitbook.io)
 
 ###Multi-platform Markdown Editors
 * [CuteMarkEd](http://cloose.github.io/CuteMarkEd/)
