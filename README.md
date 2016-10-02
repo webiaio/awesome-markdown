@@ -45,6 +45,7 @@ A curated list of awesome Markdown tools
 
 ###OSx Markdown Editors
 * [MacDown](http://macdown.uranusjr.com/)
+* [Typora](https://www.typora.io)
 
 ###Windows Markdown Editors
 * [Markdown Metro](http://apps.microsoft.com/windows/en-us/app/markdown-metro/efb6cd20-9376-4fb1-999b-19564c1380d4)
