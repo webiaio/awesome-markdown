@@ -45,6 +45,7 @@ A curated list of awesome Markdown tools
 
 ###OSx Markdown Editors
 * [MacDown](http://macdown.uranusjr.com/)
+* [Mou](http://25.io/mou/)
 * [Typora](https://www.typora.io)
 
 ###Windows Markdown Editors
@@ -102,3 +103,4 @@ A curated list of awesome Markdown tools
 * [Daring Fireball: Markdown Basics](http://daringfireball.net/projects/markdown/basics)
 * [Markdown Tutorial](http://markdowntutorial.com/)
 * [Learn The Basics Of Markdown in 10 Minutes](http://www.youtube.com/watch?v=HndN6P9ke6U) *video*
+* [GHOST blog: The Ultimate Guide to Markdown](https://blog.ghost.org/markdown/)
