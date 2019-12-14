@@ -1,5 +1,3 @@
-![Markdown](logo.jpg)
-
 # Awesome Markdown
 A curated list of awesome Markdown tools
 
