@@ -1,9 +1,10 @@
 ![Markdown](logo.jpg)
-#Awesome Markdown
+
+# Awesome Markdown
 A curated list of awesome Markdown tools
 
 
-##Table of Contents
+## Table of Contents
 - [Awesome Markdown](#awesome-markdown)
 	- [Markdown Editors](#markdown-editors)
 	    - [Online Markdown Editors](#online-markdown-editors)
