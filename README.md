@@ -82,6 +82,7 @@ A curated list of awesome Markdown tools
 * [markdown-js](https://github.com/evilstreak/markdown-js)
 * [Showdown](https://github.com/showdownjs/showdown)
 * [markdown-it](https://github.com/markdown-it/markdown-it) - pluggable markdown library
+* [mos](https://github.com/zkochan/mos)
 
 ### GO Markdown Libraries
 * [Blackfriday](https://github.com/russross/blackfriday)
