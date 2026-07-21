@@ -82,6 +82,7 @@ A curated list of awesome Markdown tools
 * [Showdown](https://github.com/showdownjs/showdown)
 * [markdown-it](https://github.com/markdown-it/markdown-it) - pluggable markdown library
 * [mos](https://github.com/zkochan/mos)
+* [markstream-vue](https://github.com/Simon-He95/markstream-vue) - Streaming Markdown renderer for Vue, Nuxt, and VitePress AI chat UIs, with support for incomplete Markdown, Mermaid, KaTeX, long responses, and streaming code blocks.
 
 ### GO Markdown Libraries
 * [Blackfriday](https://github.com/russross/blackfriday)
