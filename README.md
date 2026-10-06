@@ -55,6 +55,7 @@ A curated list of awesome Markdown tools
 ### Chrome Markdown Editors
 * [StackEdit for chrome](https://chrome.google.com/webstore/detail/stackedit/iiooodelglhkcpgbajoejffhijaclcdg?hl=en)
 * [Markdown Here](https://chrome.google.com/webstore/detail/markdown-here/elifhakcjgalahccnjkneoccemfahfoa?hl=en)
+* [Feishu Toolkit](https://dsr.ink/en/)
 * [Markdown Editor](https://chrome.google.com/webstore/detail/markdown-editor/gjolennkaebiimakmoaadofoihhldjhb?hl=en)
 
 ## Markdown Plugins
