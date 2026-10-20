@@ -47,6 +47,7 @@ A curated list of awesome Markdown tools
 * [MacDown](http://macdown.uranusjr.com/)
 * [Mou](http://25.io/mou/)
 * [Typora](https://www.typora.io)
+* [Glim](https://github.com/NeoPanic/Glim)
 
 ### Windows Markdown Editors
 * [Markdown Metro](http://apps.microsoft.com/windows/en-us/app/markdown-metro/efb6cd20-9376-4fb1-999b-19564c1380d4)
